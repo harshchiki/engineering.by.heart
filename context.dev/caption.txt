@@ -1,0 +1,11 @@
+Your AI needs better web context. It still needs your judgment.
+
+Context.dev collects web pages, files and company data through a hosted API. This carousel explains where it fits, how to integrate it, the freshness and billing traps, and when Firecrawl, Crawl4AI, Apify, Tavily, Exa or a direct API may fit better.
+
+Two details worth saving: a default scrape can use cached content up to three days old, and HTTP 200 can still contain failed outputs. Check freshness, validate the data and treat retrieved text as evidence, never as instructions.
+
+Assessment based on primary documentation reviewed on 12 October 2026; pricing and product capabilities can change. No independent API performance benchmark was run. Sources and per-slide coverage are in sources.json.
+
+Save before choosing your web-data stack. Follow @engineering.by.heart for clear, practical technology explanations.
+
+#GeneralTech #AIEngineering #WebScraping #RAG #AIAgents #DeveloperTools #SoftwareEngineering #ContextDev

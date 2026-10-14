@@ -1,0 +1,9 @@
+Courses are locked doors. Prerequisites are the keys.
+
+Course Schedule I asks one question: can every course be completed? This walkthrough follows CourseSchedule1.java and explains Kahn's topological sort through directed edges, indegrees, a ready queue, and one final count.
+
+See why duplicate prerequisites need consistent counting, why a diamond waits for both branches, and how a cycle can block courses that are not themselves cyclic. Expected time is O(numCourses + prerequisites.length).
+
+Save the unlock rule. Follow @engineering.by.heart for visual data structures and algorithms.
+
+#datastructures #algorithms #graphs #topologicalsort #java #courseschedule #coding #engineeringbyheart

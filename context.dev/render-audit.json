@@ -1,0 +1,98 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 2,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 3,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 4,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 5,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 6,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 7,
+      "posterBounds": "pass",
+      "animationBounds": "60 frames pass"
+    },
+    {
+      "slide": 8,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 9,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 10,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 11,
+      "posterBounds": "pass",
+      "animationBounds": "60 frames pass"
+    },
+    {
+      "slide": 12,
+      "posterBounds": "pass",
+      "animationBounds": "60 frames pass"
+    },
+    {
+      "slide": 13,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 14,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 15,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 16,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 17,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 18,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 19,
+      "posterBounds": "pass"
+    },
+    {
+      "slide": 20,
+      "posterBounds": "pass"
+    }
+  ],
+  "temporaryFrames": "/var/folders/nf/wkjjz9ps5tq7pzxxfc4489qr0000gq/T/context-carousel-frames-DYNFyb",
+  "pngSize": [
+    2160,
+    2700
+  ],
+  "gifSize": [
+    1080,
+    1350
+  ],
+  "durationMs": 6000,
+  "fps": 10
+}
